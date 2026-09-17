@@ -1,4 +1,4 @@
-# Elina's course book
+# Introduction
 
 ## What is this repository?
 
